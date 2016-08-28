@@ -1,0 +1,24 @@
+{
+  "name": "es2015-gulp-starter",
+  "version": "1.0.0",
+  "description": "ES2015 Playgroud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destromas1/es2015-gulp-starter.git"
+  },
+  "author": "Shahjada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/destromas1/es2015-gulp-starter/issues"
+  },
+  "homepage": "https://github.com/destromas1/es2015-gulp-starter#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp" : "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
