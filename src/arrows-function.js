@@ -1,10 +1,12 @@
+"use strict";
+
 var showName = (name) => {
   return "Mr. " + name;
 };
 
 console.log(showName("Shahjada"));
 
-var showName1 = name =>  "Mr. " + name;
+var showName1 = name =>  `Mr. ${name}`;
 console.log(showName1("Shahjada"));
 
 var person = {
